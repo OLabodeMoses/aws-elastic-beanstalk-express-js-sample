@@ -1,0 +1,4 @@
+[default]
+aws_access_key_id=ASIAYS2NTZMQAHYD4YPK
+aws_secret_access_key=4dOXF9hkmPiZQM413tS8NSUvECTs5A2b/yLn/kss
+aws_session_token=FwoGZXIvYXdzEP///////////wEaDIbjmWKqhZ5IUbvq6yLGAYzYuUiiqZiUyohRdh5jdBfr5ZI6pWTiA2jSe+zu6mmUGzHF8I/APLR2El/g2lBCBfFq2ufBN2T5S+SEAFsxyj6qifAcj0UEutNMc1/DEMwIfqOqPhr0J+AYv/49l193ElbrDPBTssCT4YSXymhD+hdDNpWNSbbBudZveKI3Y7ZlxE5I+4CZMURzVJla8Gr2koLHvYqtwy/iToj97PllL3L03/XtGCUZ0JRyQLJ+iGCjoacZvA0cSD2cyT7BjZftg+k8NDkx/SievveuBjIt8mt0Nw4ivD/8Z2Y8l2zc9H0EJ/dcjv1kKbEKnmGkN/3EUDx3RFknp6n8cgrB
